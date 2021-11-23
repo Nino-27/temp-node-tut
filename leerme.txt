@@ -5,3 +5,6 @@ current topic: Path Module
 cuerrent time: 1:04:23
 
 note: go to nodejs website documentation to see the built in modules.
+
+note2: You should always try to set your code async...
+why ? becuase like that we dont block the other users.
